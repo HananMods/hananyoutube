@@ -1,6 +1,8 @@
-Version 2. Changelog:
+Version 3. Changelog:
 
->Update From The Hanan Mods Original Server
+>Update From The Hanan Mods Original Server🇱🇰
+>New UI Interface
+>Fixed Sudden Turn Off
 >Short To Gallery Super Exclusive🥰
 >Fixed Package issues in Android 12 Devices
 >Added Short Video Comments Copy
