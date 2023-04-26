@@ -1,5 +1,5 @@
-Version 3. Changelog:
->Please Dont Update If You Have Already Installed The Version 3❗️❗️❗️
+Version 4. Changelog:
+>Fixed Buffering Issue❗️❗️❗️
 >Update From The Hanan Mods Original Server🇱🇰
 >New UI Interface
 >Fixed Sudden Turn Off
